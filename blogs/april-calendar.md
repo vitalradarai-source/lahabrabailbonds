@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-la-habra | what happens after an arrest in La Habra | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-la-habra | what happens after an arrest in La Habra | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-la-habra | how do bail bonds work in La Habra | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-la-habra | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-la-habra | how to get someone out of jail in La Habra | Release Process | ⬜ |
